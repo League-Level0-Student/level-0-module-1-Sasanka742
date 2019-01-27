@@ -5,6 +5,7 @@ public class Badgers {
 			System.out.println("Badger");
 			System.out.println("Mushroom");
 			System.out.println("Snake");
+			System.out.println();
 		}
 	}
 }
